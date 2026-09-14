@@ -11,8 +11,8 @@ const WATERMARK_URL = "https://media.base44.com/images/public/6aa1c4c872f2848a15
 const HEADER_IMAGE_URL = "https://media.base44.com/images/public/6aa1c4c872f2848a151a92bf/a3148ebb9_image.png";
 
 const ROLE_PAGES = {
-  admin: ["/", "/daily-summary", "/shotaf", "/constraints", "/tasks", "/statistics", "/klaf"],
-  קלפ: ["/", "/daily-summary", "/constraints", "/klaf"],
+  admin: ["/", "/daily-summary", "/shotaf", "/constraints", "/tasks", "/statistics", "/equipment"],
+  קלפ: ["/", "/daily-summary", "/constraints", "/klaf", "/equipment"],
   רסר: ["/", "/constraints", "/statistics"],
   סגל: ["/", "/constraints", "/statistics"],
 };
